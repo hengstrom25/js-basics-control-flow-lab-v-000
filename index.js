@@ -5,7 +5,6 @@ function scuberGreetingForFeet(distance) {
     'No can do.'
     }
     
-  } ;
   
   
   
