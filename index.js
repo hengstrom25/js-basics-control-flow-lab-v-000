@@ -10,4 +10,7 @@ function scuberGreetingForFeet(distance) {
     }
 }
 
-const ternaryCheckCity()
+const ternaryCheckCity(city) {
+  
+  
+}
