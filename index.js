@@ -2,6 +2,8 @@
 
 function scuberGreetingForFeet(distance) {
   if (distance > 2500) {
+    'No can do.'
+    }
     
   } ;
   
