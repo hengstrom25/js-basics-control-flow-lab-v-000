@@ -10,7 +10,7 @@ function scuberGreetingForFeet(distance) {
     }
 }
 
-const ternaryCheckCity = city => {
+function ternaryCheckCity(city) {
   if (city == )
   return 'Ok, sounds good.'
 }
