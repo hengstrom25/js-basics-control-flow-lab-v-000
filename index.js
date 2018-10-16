@@ -11,6 +11,6 @@ function scuberGreetingForFeet(distance) {
 }
 
 const ternaryCheckCity(city) {
-  
-  return 'Ok, sounds good'
+  if (city == )
+  return 'Ok, sounds good.'
 }
