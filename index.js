@@ -11,5 +11,5 @@ function scuberGreetingForFeet(distance) {
 }
 
 function ternaryCheckCity(city) {
-  return city === NYC, ''
+  return city === 'NYC' ? 
 }
